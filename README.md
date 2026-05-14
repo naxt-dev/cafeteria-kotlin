@@ -31,4 +31,4 @@ O sistema é inicializado com os seguintes produtos em memória:
 1. Certifique-se de ter o [JDK (Java Development Kit)](https://www.oracle.com/java/technologies/downloads/) e o [Kotlin Compiler](https://kotlinlang.org/docs/command-line.html) instalados em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/cafeteria-kotlin.git](https://github.com/SEU_USUARIO/cafeteria-kotlin.git)
+   git clone [https://github.com/naxt-dev/cafeteria-kotlin.git](https://github.com/naxt-dev/cafeteria-kotlin.git)
